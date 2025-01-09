@@ -110,7 +110,3 @@ The project can be extended in several ways:
 - Add real-time interaction (e.g., pause, reset, or speed controls).
 - Include labels or tooltips for easier interpretation of the grid.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
